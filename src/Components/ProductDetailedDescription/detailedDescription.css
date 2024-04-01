@@ -1,0 +1,20 @@
+.Item-Parent{
+    height: 500px;
+    display:grid;
+    width: 100%;
+    display:block;
+    align-items: center;
+    background: aliceblue;
+}
+.details-image{
+    display: inline-block;
+    width: 155px;
+    height: 150px;
+    border: 1px solid black;
+}
+.details-item{
+    display: inline-block;
+     border: 1px solid black;
+     width: 155px;
+     height: 150px;
+}

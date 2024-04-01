@@ -1,0 +1,23 @@
+.search-parent{
+    /* width: 100%; */
+    display: flex;
+    border: 1px solid black;
+    width: 52rem;
+    position: relative;
+    left: 12rem;
+    margin-bottom: 1rem;
+    top: 2rem;
+    height: 10rem;
+}
+.card-image{
+ position: relative;
+ width: 10rem;
+ left: 1rem;
+ border: 1px solid black;
+}
+.card-content{
+ position: relative;
+ left: 2rem;
+ border: 1px solid black;
+ width: 21rem;
+}

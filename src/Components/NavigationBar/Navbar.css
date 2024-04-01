@@ -1,0 +1,73 @@
+.app-navbar {
+    width: 100vw;
+    display: grid;
+    height: 4rem;
+    border: 1px solid black;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: antiquewhite;
+  
+  }
+  
+  .app-logo {
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    
+    font-size: 12px;
+  }
+  
+  .app-logo li {
+    position: relative;
+    right: 53px;
+    font-size: 2em;
+  }
+  
+  
+  
+  .search-bar {
+    
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  
+  }
+  
+  .search-bar input {
+    width:15rem;
+    height: 2rem;
+    border-radius: 6px 0px 0px 6px;
+  }
+  
+  .search-bar button {
+    border-radius: 0px 6px 6px 0px;
+    width:4rem;
+    height: 37px;
+  }
+  
+  
+  .nav-routing {
+   
+    height: 4rem;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  .nav-routing ul {
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    gap: 25px;
+  }
+  
+  
+  
+  
+  
+  
+  

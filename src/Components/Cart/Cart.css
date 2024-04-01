@@ -1,0 +1,24 @@
+.cart{
+    display: flex;
+    border: 1px solid black;
+    position: relative;
+    margin-bottom: 1rem;
+    top: 1rem;
+    gap: 1rem;
+    left: 16rem;
+    width: 72rem;
+   
+}
+.image-cart{
+    position: relative;
+    display: inline-flex;
+    left: 4rem;
+    width: 8rem;
+    border: 1px solid black;
+}
+.content-display-cart{
+    width: 34rem;
+    position: relative;
+    left: 7rem;
+    border: 1px solid black;
+}

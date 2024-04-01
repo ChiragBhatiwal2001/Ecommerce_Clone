@@ -1,0 +1,55 @@
+.login-form{
+    border-radius: 5px;
+    display: inline-block;
+    position: relative;
+    top: 85px;
+    /* justify-content: center; */
+    left: 455px;
+    border: 2px solid black;
+    width: 488px;
+    height: 310px;
+}
+
+.login-username{
+    position: relative;
+    left: 150px;
+    top: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 28px;
+    width: 187px;
+    margin-bottom: 10px;
+}
+
+.login-password{
+    position: relative;
+    left: 150px;
+    top: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 28px;
+    width: 187px;
+    margin-bottom: 10px;
+}
+.login-button{
+    position: relative;
+    left: 172px;
+    top: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 28px;
+    width: 146px;
+    margin-bottom: 10px;
+}
+
+.login-link{
+    position: relative;
+    left: 220px;
+    top: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 28px;
+    width: 491px;
+    text-decoration: none;
+    color: black;
+}
